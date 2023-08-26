@@ -1,12 +1,12 @@
-#Data Scientist 
+# Data Scientist 
 
-###Education
+### Education
 Data Analytics, MSc
 
-###Work Experience
+### Work Experience
 Data Analyst, City of Toronto 
 - Project 1!
 
-###Projects
+### Projects
 SDSU 
 - Assignment 1
